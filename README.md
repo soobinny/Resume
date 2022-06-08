@@ -21,7 +21,7 @@
 
 ---
 
-2021년도 1학기 수강 과목(전공)   
+2021년도 1학기 수강 과목 (전공)   
 |과목|학점|
 |---|---|
 |자료구조|3|
@@ -30,5 +30,6 @@
 |논리설계및실험|3|
 
 ---
+github address : [soobinny][github]
 
-
+[github]:http://github.com/soobinny
